@@ -1,0 +1,43 @@
+2
+Array_Based_stack 配列を使ったスタック
+Static_members スタティックにしてIDを更新
+
+3
+Pointer ポインタ使っていろいろと
+Modify_elements_in_the_caller ２次元のベクトルのノルムが１になるように要素変更
+Reference_pointer ポインタ引数とリファレンス引数のスワップ
+
+5
+Copy_constructor
+Assignment_operator
+
+7
+Two_dimentional... ２次元平面（面積もとめたり）
+Polygon 多角形生成
+
+9
+Operator_overloading ３＊３の配列ベクトル（==.+=などのオーバーロード）
+
+10
+Defining_a_template_class テンプレートでペアを作る
+Defining_a_template_function テンプレートでペア出力関数をつくる
+Template_vector テンプレートを使ったベクトル（いろいろオーバーロード）
+
+11
+A_queue_stack スタックを使ったキュー
+Keyword_counter キーワードが何回でたか
+
+12
+Containers_and_iterators リストの中身から目的の値があるか
+Iterator vector<int>の中身を逆にする
+Iterator_adapters 入力の奇数をファイルに出力
+
+13
+Function_objects リストの中の制限された大小比較（０ １０）
+Function_objects_and_adapter 大きい順と小さい順のキュー
+Mapping ベクトルの中身を２乗して新しいベクトルに
+
+14
+Palindromes 文字列が上からでも下からでも
+Word_Palindromes 上の単語ver
+
